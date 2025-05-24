@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aTyCD71/1MM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smh20\\source\\repos\\alttabhidegui\\alttabhidegui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smh20\\.nuget\\packages\\system.codedom\\9.0.5\\system.codedom.9.0.5.nupkg.sha512",
+    "C:\\Users\\smh20\\.nuget\\packages\\system.management\\9.0.5\\system.management.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
